@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/bublesort.h
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/insertion.h
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/m_buble.h
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/main.cpp
+iostream
+-
+bublesort.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/bublesort.h
+m_buble.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/m_buble.h
+selection.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/selection.h
+insertion.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/insertion.h
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/selection.h
+

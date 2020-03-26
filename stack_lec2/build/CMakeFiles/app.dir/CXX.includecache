@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/stack_lec2/main.cpp
+stack_lec2.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/stack_lec2/stack_lec2.h
+stack_lec2.cpp
+/home/moheb/struct/reprosatory/ostr-ya-rb/stack_lec2/stack_lec2.cpp
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/stack_lec2/stack_lec2.cpp
+stack_lec2.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/stack_lec2/stack_lec2.h
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/stack_lec2/stack_lec2.h
+iostream
+-
+

@@ -1,0 +1,3 @@
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/build/CMakeFiles/rebuild_cache.dir
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/build/CMakeFiles/app.dir
+/home/moheb/struct/reprosatory/ostr-ya-rb/sorting/build/CMakeFiles/edit_cache.dir
