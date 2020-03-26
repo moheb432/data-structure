@@ -6,7 +6,7 @@
 void bubble (double *arr, int size);
 void m_bubble (double *arr, int size);
 void selection (double *arr, int size);
-void insertion(int *arr, int n)
+void insertion(int *arr, int n);
     int main()
 
 {
