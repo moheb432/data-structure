@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/linked list/list.h
+iostream
+-
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/linked list/main.cpp
+list.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/linked list/list.h
+

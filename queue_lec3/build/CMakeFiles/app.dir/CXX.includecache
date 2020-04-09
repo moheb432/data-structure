@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/queue_lec3/c_queue.cpp
+c_queue.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/queue_lec3/c_queue.h
+iostream
+-
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/queue_lec3/c_queue.h
+
+/home/moheb/struct/reprosatory/ostr-ya-rb/queue_lec3/main.cpp
+iostream
+-
+c_queue.h
+/home/moheb/struct/reprosatory/ostr-ya-rb/queue_lec3/c_queue.h
+c_queue.cpp
+/home/moheb/struct/reprosatory/ostr-ya-rb/queue_lec3/c_queue.cpp
+
