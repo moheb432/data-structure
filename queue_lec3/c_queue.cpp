@@ -1,6 +1,8 @@
 /*queue is used specially for printer and */
 #include "c_queue.h"
 #include <iostream>
+class c_queue;
+
 bool c_queue::isempty(){
 
     if (front==-1 && rear==-1 ){return true;}

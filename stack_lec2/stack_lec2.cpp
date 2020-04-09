@@ -30,6 +30,7 @@ void stack_lec2::push(int x){
 int stack_lec2::pop(){
                    if (isempty()){
                        std::cout<<"the stack is empty\n";
+                   return 0;
                    }
                      else
 

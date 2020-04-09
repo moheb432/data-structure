@@ -1,4 +1,4 @@
-
+#pragma once
   void m_bubble (double *arr, int size)
 {    int flag=1;
     for(int i=0;i< size-1 && flag;i++)

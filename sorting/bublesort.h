@@ -1,5 +1,5 @@
 //************************************************************buble sort    n*(n-1)
-
+#pragma once
     void swap(double *x,double *y ){
     double z=0;
     z=*x; 

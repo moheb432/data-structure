@@ -1,5 +1,5 @@
 //***********************************************************selection comple =n*n
-
+#pragma once
   void selection (double *arr, int size)
    {
     for(int i=0;i< size-1;i++){//can be made by  k<=n-1   if(x[ i]> x[k]){swap} )
